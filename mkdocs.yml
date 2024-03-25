@@ -26,5 +26,6 @@ nav:
       - Touren verwalten: manage/tour.md
       - Export der Daten: manage/export.md
   - Sonstiges:
-      - Schnittstellen: development/api.md
+      - Dokumentation: development/documentation.md
+      - Schnittstelle: development/api.md
       - Updates: development/updates.md
