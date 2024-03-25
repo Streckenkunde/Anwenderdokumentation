@@ -1,0 +1,31 @@
+site_name: Streckenkunde Digital
+copyright: © 2024 | Dennis Heinrich
+# Uncomment the following line to enable the public link to the repository
+# repo_url: https://github.com/cloudmaker97/Streckenkunde-Digital
+theme:
+  language: de
+  name: material
+  palette:
+    primary: black
+    accent: teal
+  features:
+    - navigation.footer
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cloudmaker97
+
+nav:
+  - Einleitung: index.md
+  - Konto und Einstellungen:
+      - Kontoverwaltung: user/account.md
+      - Benachrichtigungen: user/notifications.md
+  - Verwaltung der Daten:
+      - Dokumentation von Streckenkunden: manage/activity.md
+      - Strecken verwalten: manage/route.md
+      - Touren verwalten: manage/tour.md
+      - Export der Daten: manage/export.md
+  - Sonstiges:
+      - Schnittstellen: development/api.md
+      - Updates: development/updates.md
