@@ -20,5 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: help.streckenkunde.dennis-heinri.ch
           CONFIG_FILE: mkdocs.yml
-          EXTRA_PACKAGES: build-base
+          EXTRA_PACKAGES: build-base privacy search
           REQUIREMENTS: folder/requirements.txt
