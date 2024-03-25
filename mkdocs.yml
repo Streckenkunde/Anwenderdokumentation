@@ -10,10 +10,6 @@ theme:
   features:
     - navigation.footer
 
-plugins:
-  - privacy
-  - search
-
 extra:
   generator: false
   social:
