@@ -1,7 +1,6 @@
 site_name: Streckenkunde Digital
 copyright: © 2024 | Dennis Heinrich
-# Uncomment the following line to enable the public link to the repository
-# repo_url: https://github.com/cloudmaker97/Streckenkunde-Digital
+repo_url: https://github.com/Streckenkunde/Anwenderdokumentation
 theme:
   language: de
   name: material
