@@ -19,9 +19,11 @@ extra:
 nav:
   - Einleitung: index.md
   - Konto und Einstellungen:
+      - Startseite: user/index.md
+      - Dashboard: user/dashboard.md
       - Kontoverwaltung: user/account.md
       - Benachrichtigungen: user/notifications.md
-  - Verwaltung der Daten:
+  - Dokumentation:
       - Dokumentation von Streckenkunden: manage/activity.md
       - Strecken verwalten: manage/route.md
       - Touren verwalten: manage/tour.md
