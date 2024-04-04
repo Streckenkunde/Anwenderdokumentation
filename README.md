@@ -25,4 +25,3 @@ Folgende Befehle stehen dem Beitragenden zur Verfügung:
 |--------------|-------------------------------------------------------|
 | `just build` | Baut die Dokumentation statisch in den Ordner `site`  |
 | `just serve` | Startet die Dokumentation auf `http://localhost:3000` |
-
