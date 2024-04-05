@@ -11,6 +11,14 @@ theme:
     - toc.follow
     - navigation.footer
 
+plugins: 
+  - search
+  - pdf-export:
+    - verbose: true
+    - media_type: print
+    - combined: true
+    - combined_output_path: docs/index.pdf
+
 extra:
   generator: false
   social:
