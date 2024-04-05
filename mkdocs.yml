@@ -8,6 +8,7 @@ theme:
     primary: black
     accent: teal
   features:
+    - toc.follow
     - navigation.footer
 
 extra:
@@ -17,18 +18,19 @@ extra:
       link: https://github.com/cloudmaker97
 
 nav:
-  - Einleitung: index.md
-  - Konto und Einstellungen:
-      - Startseite: user/index.md
-      - Dashboard: user/dashboard.md
-      - Kontoverwaltung: user/account.md
-      - Benachrichtigungen: user/notifications.md
-  - Dokumentation:
-      - Dokumentation von Streckenkunden: manage/activity.md
-      - Strecken verwalten: manage/route.md
-      - Touren verwalten: manage/tour.md
-      - Export der Daten: manage/export.md
-  - Sonstiges:
-      - Dokumentation: development/documentation.md
-      - Schnittstelle: development/api.md
-      - Updates: development/updates.md
+  - Startseite: index.md
+  - Allgemeines:
+    - 1_general/1_about.md
+    - 1_general/2_changes.md
+    - 1_general/3_development.md
+  - Funktionen und Module:
+    - 2_modules/1_welcome/index.md
+    - 2_modules/2_dashboard/index.md
+    - Dokumentation:
+      - 2_modules/3_documentation/index.md
+      - 2_modules/3_documentation/1_routes/index.md
+      - 2_modules/3_documentation/2_tours/index.md
+    - Mein Konto:
+      - 2_modules/4_account/index.md
+  - Weitere Informationen:
+    - 3_extras/1_app/index.md
