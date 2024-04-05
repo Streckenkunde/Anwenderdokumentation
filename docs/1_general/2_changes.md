@@ -22,4 +22,3 @@ Zum Beitragen an der Dokumentation sind folgende Voraussetzungen notwendig:
 - *[Docker](https://docs.docker.com/get-docker)* um die Dokumentation zu kompilieren und zu starten
 - Das Tool *[Just](https://just.systems)*, es ist ein Management-Tool für das Ausführen von Befehlen
 - Erfahrung im Umgang mit Markdown-Dateien und der Versionsverwaltung *[Git](https://git-scm.com)*
-
