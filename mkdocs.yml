@@ -13,11 +13,7 @@ theme:
 
 plugins: 
   - search
-  - pdf-export:
-    - verbose: true
-    - media_type: print
-    - combined: true
-    - combined_output_path: docs/index.pdf
+  - mkpdfs
 
 extra:
   generator: false
