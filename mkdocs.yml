@@ -13,7 +13,6 @@ theme:
 
 plugins: 
   - search
-  - mkpdfs
 
 extra:
   generator: false
