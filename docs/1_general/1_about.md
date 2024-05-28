@@ -13,5 +13,5 @@ Der Support und die Weiterentwicklung des Projekts erfolgt durch folgenden Diens
 > Veerßer Straße 86  
 > 29525 Uelzen
 >
-> Support-Mail: [support@dennis-heinri.ch](mailto:support@dennis-heinri.ch)  
+> Support-Mail: [kontakt@streckenkunde.digital](mailto:kontakt@streckenkunde.digital)  
 > Internetseite: [dennis-heinri.ch](https://dennis-heinri.ch)
